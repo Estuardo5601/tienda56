@@ -1,0 +1,40 @@
+.cu1  {
+    width: 400px;
+    height: 100px;       
+    justify-content: center;
+    align-items: center;
+    border: 3px solid black;
+    display: flex;
+    color: white;
+}
+
+.cu2 {
+    width: 50px;
+    height: 40px;       
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+    display: flex;
+
+
+}
+
+.cu2 img {
+    width: 100%;
+    border-radius: 7px;
+}
+
+.nom {
+    display: flex;
+    text-align: center;
+    font-family: monospace;
+    color: #222;
+}
+
+.cate{
+    margin-top: 25px;
+
+
+}
+
+

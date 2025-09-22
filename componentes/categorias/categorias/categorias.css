@@ -1,0 +1,13 @@
+.linea1 {
+    display: flex;
+
+}
+
+ul {
+  
+    text-align: center;
+}
+ul li {
+    margin: 5px 0;
+    
+}
